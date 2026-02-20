@@ -1,3 +1,4 @@
+![Alt text](architecture.png)
 # Enterprise Learning Management System (LMS)
 
 A full-stack enterprise Learning Management System built using:
