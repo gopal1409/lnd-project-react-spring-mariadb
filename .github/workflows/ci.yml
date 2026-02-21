@@ -6,7 +6,7 @@ on:
       - master
 
 env:
-  DOCKERHUB_USERNAME: gopal1409@gmail.com 
+  DOCKERHUB_USERNAME: gopal1409
   BACKEND_IMAGE: lms-backend
   FRONTEND_IMAGE: lms-frontend
 
